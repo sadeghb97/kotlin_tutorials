@@ -1,0 +1,6 @@
+Since you are running on the JVM,
+type erasure is a thing.
+This means (in simplified terms),
+that during compilation, the generics are simply ignored.
+Therefore, you cannot get the class of T,
+as the JVM doesn't even know what you mean by "T".
