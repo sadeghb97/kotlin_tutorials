@@ -24,4 +24,12 @@ fun main (args: Array<String>){
     println("TrimLeft: " + str2.trimStart() + " ---");
     println("TrimRight: " + str2.trimEnd() + " ---");
     println("Trim: " + str2.trim() + " ---");
+    println("---------------------------------")
+
+    var s:String = """line aval
+        |line dovom
+        |line sevom
+    """.trimMargin()
+    println(s)
+
 }

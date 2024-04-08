@@ -9,6 +9,7 @@ fun main(args: Array<String>){
     //in nokte mohem ast ke dar tarife type lambda noe vorudi ha hame bayad
     //dar yek perantez bashand. ama dar khode badane lambda vorudi ha nabayad darune
     //perantez gharar girand!
+    //dar type moshakhas shode mitavan yek tabe mamuli ra ham rikht
     val b:(Int,Int) -> Boolean = {inp, inp2 ->
         println("inp: $inp");
         println("inp2: $inp2");

@@ -24,6 +24,6 @@ fun main(args: Array<String>){
     var pride2:Pride = Pride();
     var pride3:Pride = Pride();
 
-    println("PrideClassNumber: " + Pride.number);
+    println("PrideClassNumber: " + Pride.Companion.number);
     println("PrideClassMaxSpeed: " + Pride.MAX_SPEED);
 }

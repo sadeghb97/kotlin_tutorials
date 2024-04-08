@@ -10,9 +10,9 @@
 //baraye importe package, package bayad darune foldere src ma bashad
 //ya darune sdk ma bashad ke ide an ra mishenasad
 
-import MyPackage.mainHello;
-import MyPackage.TestClass;
-import MyPackage.TestObject;
+import mypackage.mainHello;
+import mypackage.TestClass;
+import mypackage.TestObject;
 
 //yamitavanim hame ra ba ham import konim
 //import MyPackage.*;

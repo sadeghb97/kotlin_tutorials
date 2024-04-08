@@ -13,7 +13,7 @@ class Person(name:String, age:Int) {
         println("Person created ($name - $age)");
     }
 
-    //agar tabe be surate yek khati yek bashad
+    //agar tabe be surate yek khati bashad
     //mitavanad be in surat tarif shavad
     fun retName() = name;
 }
@@ -35,4 +35,5 @@ fun main (args: Array<String>){
     var student:Student = Student("Karimifar", 5940);
     println("Student: (${student.name} - ${student.code})");
     var player:Player = Player("WayneRooney", "MUFC");
+    println(player.name + " (" + player.team + ")")
 }

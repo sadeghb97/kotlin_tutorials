@@ -12,6 +12,9 @@ fun main (args: Array<String>){
     hello(name="Vavid");
     hello(name="Navid", age=26);
     listHello(1000, 1001, 10002);
+
+    var v : Any = 4
+    v = "d"
 }
 
 //dar ghesmate paramter haye function ha var ya val nemigozarim

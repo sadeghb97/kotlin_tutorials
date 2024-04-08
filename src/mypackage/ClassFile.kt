@@ -1,4 +1,4 @@
-package MyPackage
+package mypackage
 
 class Person (var name:String, var age:Int){
     var city:String = ""

@@ -1,9 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1581284-2762-41be-b6d4-f0cf43ccc446" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="f1581284-2762-41be-b6d4-f0cf43ccc446" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/AA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/AA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/AbstractClassesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/AbstractClassesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/AdminUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/AdminUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/ArraysKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/ArraysKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/Article.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/Article.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/BB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/BB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/BBChild.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/BBChild.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/CompanionObjectKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/CompanionObjectKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/ConditionalStatmentKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/ConditionalStatmentKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/ConstValsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/ConstValsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/DataClassesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/DataClassesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/DataGuy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/DataGuy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/EnumsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/EnumsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/ExceptionHandlingKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/ExceptionHandlingKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/ExtensionFunctionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/ExtensionFunctionsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/Father.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/Father.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/FilesKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/FilesKt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/FilesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/FilesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/Follower.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/Follower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/FunctionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/FunctionsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/GenericClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/GenericClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/GenericsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/GenericsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/GettersAndSettersKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/GettersAndSettersKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/Guy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/Guy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/HashMapsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/HashMapsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/HigherOrderFunctionsKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/HigherOrderFunctionsKt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/HigherOrderFunctionsKt$main$lambda$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/HigherOrderFunctionsKt$main$lambda$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/HigherOrderFunctionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/HigherOrderFunctionsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/InheritanceClassesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/InheritanceClassesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/InterfacesKt$main$printable$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/InterfacesKt$main$printable$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/InterfacesKt$main$readable$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/InterfacesKt$main$readable$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/InterfacesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/InterfacesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/Kid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/Kid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressions2Kt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressions2Kt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressions2Kt$main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressions2Kt$main$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressions2Kt$main$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressions2Kt$main$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressions2Kt$main$runnable$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressions2Kt$main$runnable$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressions2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressions2Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressionsKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressionsKt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressionsKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressionsKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressionsKt$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressionsKt$main$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressionsKt$main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressionsKt$main$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressionsKt$main$a$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressionsKt$main$a$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressionsKt$main$b$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressionsKt$main$b$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressionsKt$main$c$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressionsKt$main$c$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressionsKt$main$d$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressionsKt$main$d$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressionsKt$main$e$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressionsKt$main$e$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressionsKt$main$f$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressionsKt$main$f$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/LambdaExpressionsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/ListsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/ListsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/LoopsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/LoopsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/META-INF/FirstKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/META-INF/FirstKotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/MyObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/MyObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/MyPackage/ClassFileKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/MyPackage/OnClickListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/MyPackage/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/MyPackage/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/MyPackage/TestFileKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/MyPackage/TestObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/MyPackage/View.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/MyPackage/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/MyPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/MyPerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/MyStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/MyStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/NormalUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/NormalUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/NullSafetyKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/NullSafetyKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/PackagesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/PackagesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/Pride$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/Pride$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/Pride.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/Pride.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/Printablee$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/Printablee$DefaultImpls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/Printablee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/Printablee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/Readablee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/Readablee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/SecondaryConstructorsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/SecondaryConstructorsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/SingletonObjectsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/SingletonObjectsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/StartClassesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/StartClassesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/Status.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/StringsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/StringsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstKotlin/VisibilityKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstKotlin/VisibilityKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CompanionObject.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/CompanionObject.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaExpressions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpressions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaExpressions2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpressions2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPackage/ClassFile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mypackage/ClassFile.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPackage/OnClickListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mypackage/OnClickListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPackage/TestClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mypackage/TestClass.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPackage/TestFile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mypackage/TestFile.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPackage/TestObject.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mypackage/TestObject.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPackage/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mypackage/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPackage/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mypackage/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Packages.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Packages.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SecondaryConstructors.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondaryConstructors.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StartClasses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/StartClasses.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,17 +129,14 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin Object" />
         <option value="Interface" />
         <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -44,6 +144,9 @@
     <findStrings>
       <find>Readable</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -95,6 +198,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectId" id="2Wkog3gfCEsCqQgXYB2zHNvlGMj" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -120,104 +224,88 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/QueraProblems/GhasreKhiali" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/QueraProblems/GhasreKhiali" />
+      <recent name="$PROJECT_DIR$/src/QueraProblems" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ArraysKt">
-    <configuration name="ArraysKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.TestKt">
+    <configuration name="GhasreKhialiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GhasreKhialiKt" />
       <module name="FirstKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ArraysKt" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExtensionFunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ListsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListsKt" />
       <module name="FirstKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ExtensionFunctionsKt" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HigherOrderFunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="RoadMapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RoadMapKt" />
       <module name="FirstKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="HigherOrderFunctionsKt" />
-      <option name="WORKING_DIRECTORY" />
+      <shortenClasspath name="NONE" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfacesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="StandardDelegationsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StandardDelegationsKt" />
       <module name="FirstKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="InterfacesKt" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyPackage.ClassFileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="TestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestKt" />
       <module name="FirstKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="MyPackage.ClassFileKt" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Kotlin.RoadMapKt" />
+      <item itemvalue="Kotlin.StandardDelegationsKt" />
+      <item itemvalue="Kotlin.ListsKt" />
+      <item itemvalue="Kotlin.GhasreKhialiKt" />
+      <item itemvalue="Kotlin.TestKt" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ArraysKt" />
-        <item itemvalue="Kotlin.InterfacesKt" />
-        <item itemvalue="Kotlin.HigherOrderFunctionsKt" />
-        <item itemvalue="Kotlin.MyPackage.ClassFileKt" />
-        <item itemvalue="Kotlin.ExtensionFunctionsKt" />
+        <item itemvalue="Kotlin.TestKt" />
+        <item itemvalue="Kotlin.RoadMapKt" />
+        <item itemvalue="Kotlin.GhasreKhialiKt" />
+        <item itemvalue="Kotlin.ListsKt" />
+        <item itemvalue="Kotlin.StandardDelegationsKt" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -240,17 +328,56 @@
       <workItem from="1558092465494" duration="8000000" />
       <workItem from="1558217468354" duration="6400000" />
       <workItem from="1558289897134" duration="3184000" />
-      <workItem from="1558312254162" duration="587000" />
+      <workItem from="1558312254162" duration="1167000" />
+      <workItem from="1559185251598" duration="115000" />
+      <workItem from="1559185397343" duration="28000" />
+      <workItem from="1559237069010" duration="1220000" />
+      <workItem from="1559693512066" duration="593000" />
+      <workItem from="1559783489623" duration="35000" />
+      <workItem from="1560291810418" duration="446000" />
+      <workItem from="1561501930013" duration="86000" />
+      <workItem from="1561833189204" duration="906000" />
+      <workItem from="1562347559589" duration="1286000" />
+      <workItem from="1562398103360" duration="110000" />
+      <workItem from="1697286050008" duration="4940000" />
+      <workItem from="1697500662950" duration="5368000" />
+      <workItem from="1697543327081" duration="2492000" />
+      <workItem from="1697630882816" duration="4836000" />
+      <workItem from="1697645859439" duration="6805000" />
+      <workItem from="1697741726108" duration="9546000" />
+      <workItem from="1697982360218" duration="3974000" />
+      <workItem from="1698009836924" duration="7847000" />
+      <workItem from="1698075264640" duration="11828000" />
+      <workItem from="1698109343214" duration="176000" />
+      <workItem from="1698266317783" duration="9000" />
+      <workItem from="1698972141481" duration="613000" />
+      <workItem from="1699032542485" duration="12000" />
+      <workItem from="1699731646222" duration="600000" />
+      <workItem from="1700104694094" duration="1829000" />
+      <workItem from="1700379204029" duration="346000" />
+      <workItem from="1700498844966" duration="51000" />
+      <workItem from="1702039071068" duration="2984000" />
+      <workItem from="1702297738564" duration="397000" />
+      <workItem from="1703419804804" duration="113000" />
+      <workItem from="1704354309122" duration="1313000" />
+      <workItem from="1704479238916" duration="5604000" />
+      <workItem from="1704795207998" duration="607000" />
+      <workItem from="1711558406166" duration="408000" />
+      <workItem from="1711904924062" duration="245000" />
+      <workItem from="1711905197247" duration="36000" />
+      <workItem from="1711905408596" duration="161000" />
+      <workItem from="1712516182294" duration="18699000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64276000" />
+    <option name="totallyTimeSpent" value="69681000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="27" width="1850" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.287694" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32317072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -270,6 +397,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3297062" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3764962" />
+      <window_info anchor="bottom" id="Flutter Performance" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -279,10 +407,28 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Flutter Inspector" order="9" />
+      <window_info anchor="right" id="Flutter Outline" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/io/Console.kt">
@@ -380,13 +526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConditionalStatment.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPackage/TestObject.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -399,13 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="52" lean-forward="true" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Packages.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -580,20 +712,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LambdaExpressions.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Interfaces.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Array.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
@@ -619,6 +737,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConditionalStatment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Packages.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LambdaExpressions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
         </state>
       </provider>
     </entry>

@@ -12,8 +12,7 @@
 
 //albate ghazie bala baraye class haye kotlini set nemikonad
 
-import MyPackage.OnClickListener;
-import MyPackage.View;
+import mypackage.View;
 
 fun main(args: Array<String>){
     var view:View = View();

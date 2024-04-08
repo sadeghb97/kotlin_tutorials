@@ -63,4 +63,7 @@ fun main (args: Array<String>){
     val fixedArray2 = Array<Any>(15, {it});
     println("FixedArray2[6]: " + fixedArray2[6])
     println("FixedArray2[12]: " + fixedArray2[12])
+    println("---------------")
+
+    var s:Array<Int> = (1..5).toList().toTypedArray()
 }

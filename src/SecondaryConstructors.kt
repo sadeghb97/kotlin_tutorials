@@ -19,7 +19,7 @@ class Kid (var name:String) {
     var age:Int ?= null;
 
     init {
-        println("Kid init!");
+        println("Kid $name init!");
     }
 
     constructor(name:String, age:Int) : this (name){

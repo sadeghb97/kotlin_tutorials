@@ -1,4 +1,4 @@
-package MyPackage;
+package mypackage;
 
 public class View {
     public void setOnClickListener(OnClickListener onClickListener){
